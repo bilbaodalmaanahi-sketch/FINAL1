@@ -15,12 +15,12 @@ st.set_page_config(
 
 pagina = st.navigation([
     st.Page(
-        "pages/1_moni1.py",
+        "moni1.py",
         title="Monky BIN Analyzer",
         icon="🐒"
     ),
     st.Page(
-        "pages/2_app1.py",
+        "app1.py",
         title="Segunda aplicación",
         icon="📊"
     )
