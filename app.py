@@ -7,7 +7,6 @@ st.set_page_config(
     layout="wide"
 )
 
-# Navegación
 inicio = st.Page(
     "inicio.py",
     title="Inicio",
@@ -45,7 +44,6 @@ fiat = st.Page(
     icon="🚘"
 )
 
-# Menú lateral
 pagina = st.navigation([
     inicio,
     monky,
