@@ -45,7 +45,7 @@ fiat = st.Page(
 )
 mono = st.Page(
     "pages/mono2.py",
-    title="Monky BIN Analyzer - Fiat",
+    title="Monky BIN Analyzer - hoy",
     icon="🚘"
 )
 
