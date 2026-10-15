@@ -31,6 +31,13 @@ pagina = st.navigation([
         "pages/Buscador.py",
         title="Monky BIN Analyzer-Buscador",
         icon="🐒"
+    ),
+    
+    
+    st.Page(
+        "pages/rena.py",
+        title="Monky BIN Analyzer-Renault",
+        icon="🐒"
     )
 ])
 
