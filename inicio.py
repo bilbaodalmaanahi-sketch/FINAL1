@@ -2,7 +2,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="MONKY TOOLS | BIN LAB",
+    page_title=" 🐒 MONKY TOOLS | BIN LAB",
     page_icon="🐒",
     layout="wide"
 )
@@ -266,7 +266,7 @@ with col1:
     )
 
     tool_card(
-        "05", "🚘", "FIAT MODULE",
+        "05", "FIAT MODULE",
         "Herramientas específicas para trabajar con archivos Fiat.",
         "↗ ABRIR MÓDULO FIAT",
         "pages/fiat.py"
@@ -274,14 +274,14 @@ with col1:
 
 with col2:
     tool_card(
-        "02", "⚡", "CRC16 / XMODEM",
+        "02", "CRC16 / XMODEM",
         "Analizá y repará CRC16/XMODEM para archivos BIN-BMW.",
         "↗ INICIAR CRC LAB",
         "pages/app1.py"
     )
 
     tool_card(
-        "04", "🏁", "RENAULT MODULE",
+        "04", "RENAULT MODULE",
         "Accedé al módulo de análisis orientado a archivos Renault.",
         "↗ ABRIR MÓDULO RENAULT",
         "pages/rena.py"
