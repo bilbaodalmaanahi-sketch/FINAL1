@@ -286,6 +286,12 @@ with col2:
         "↗ ABRIR MÓDULO RENAULT",
         "pages/rena.py"
     )
+    tool_card(
+        "05", "🐒","hoy mono MODULE",
+        "Accedé al módulo de análisis orientado a archivos mono.",
+        "↗ ABRIR MÓDULO mono",
+        "pages/mono2.py"
+    )
 
 
 # =========================
