@@ -55,7 +55,8 @@ pagina = st.navigation([
     crc16,
     buscador,
     renault,
-    fiat
+    fiat,
+    mono
 ])
 
 pagina.run()
