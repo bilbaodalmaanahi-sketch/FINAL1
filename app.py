@@ -7,6 +7,8 @@ import random
 
 import streamlit as st
 
+import streamlit as st
+
 st.set_page_config(
     page_title="Mis aplicaciones",
     page_icon="🧰",
@@ -15,12 +17,12 @@ st.set_page_config(
 
 pagina = st.navigation([
     st.Page(
-        "moni1.py",
+        "pages/mon1.py",
         title="Monky BIN Analyzer",
         icon="🐒"
     ),
     st.Page(
-        "app1.py",
+        "pages/app1.py",
         title="Segunda aplicación",
         icon="📊"
     )
