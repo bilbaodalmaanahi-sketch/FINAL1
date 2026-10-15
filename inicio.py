@@ -287,7 +287,7 @@ with col2:
         "pages/rena.py"
     )
     tool_card(
-        "05", "🐒","hoy mono MODULE",
+        "06", "🐒","hoy mono MODULE",
         "Accedé al módulo de análisis orientado a archivos mono.",
         "↗ ABRIR MÓDULO mono",
         "pages/mono2.py"
