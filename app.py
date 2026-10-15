@@ -25,6 +25,12 @@ pagina = st.navigation([
         "pages/app1.py",
         title="Analizador y reparador de CRC16/XMODEM para archivos BIN-BMW",
         icon="🐒"
+    ),
+    
+    st.Page(
+        "pages/app1.py",
+        title="Buscador.py",
+        icon="🐒"
     )
 ])
 
