@@ -43,6 +43,11 @@ fiat = st.Page(
     title="Monky BIN Analyzer - Fiat",
     icon="🚘"
 )
+mono = st.Page(
+    "pages/mono2.py",
+    title="Monky BIN Analyzer - Fiat",
+    icon="🚘"
+)
 
 pagina = st.navigation([
     inicio,
